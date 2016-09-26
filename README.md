@@ -1,4 +1,7 @@
 # SpaceTail
 
 personal project
-(contains code from other people, sadly cant no longer found the original creator online)
+(movieclip.lua found online and imported)
+
+
+//created at 17 years old.... my first big project
